@@ -1,0 +1,7 @@
+﻿  feal.cpp
+C:\Users\User\Desktop\ebota\feal\feal\feal.cpp(27,33): warning C4838: Преобразование из "__int64" в "FEAL::Message" требует сужающего преобразования.
+C:\Users\User\Desktop\ebota\feal\feal\feal.cpp(27,67): warning C4305: инициализация: усечение из "__int64" в "FEAL::Message"
+C:\Users\User\Desktop\ebota\feal\feal\feal.cpp(27,33): warning C4309: инициализация: усечение константного значения
+C:\Users\User\Desktop\ebota\feal\feal\feal.cpp(27,51): warning C4838: Преобразование из "__int64" в "FEAL::Message" требует сужающего преобразования.
+C:\Users\User\Desktop\ebota\feal\feal\feal.cpp(27,51): warning C4309: инициализация: усечение константного значения
+  feal.vcxproj -> C:\Users\User\Desktop\ebota\feal\x64\Debug\feal.exe
